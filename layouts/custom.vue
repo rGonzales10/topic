@@ -5,5 +5,6 @@
     </div>
     <div class="content" style="padding: 20px;">
         <slot />
+        asdasdasdasdsa
     </div>
 </template>
